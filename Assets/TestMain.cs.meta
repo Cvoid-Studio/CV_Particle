@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aec103e3ebe5ae4f9059eb27d9015c1
+timeCreated: 1506828839
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Mat_Target: {fileID: 2100000, guid: 52f35e5e7f514d74e84c69da004cabf6, type: 2}
+  - glsl_Script: {fileID: 4800000, guid: dd4a213fee51ea145a9853c0243b0367, type: 3}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
